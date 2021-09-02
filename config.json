@@ -1,0 +1,5 @@
+{
+    "token": "ODczNTA3NzkyOTc0MTMxMjUy.YQ5bhg.5izheOcnxVzrfowRgSeCt8pfuTQ",
+    "prefix": "!",
+    "mongooseConnectionString": "mongodb://nooby:aliadel09@system-shard-00-00.hafgl.mongodb.net:27017,system-shard-00-01.hafgl.mongodb.net:27017,system-shard-00-02.hafgl.mongodb.net:27017/System?authSource=admin&replicaSet=atlas-g08jps-shard-0&readPreference=primary&appname=MongoDB%20Compass&ssl=true"
+}
